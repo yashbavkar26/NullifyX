@@ -1,0 +1,68 @@
+
+# -----------------------
+# Python cache & artifacts
+# -----------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# -----------------------
+# Virtual environment
+# -----------------------
+venv/
+ENV/
+env/
+.venv/
+
+# -----------------------
+# OS-specific files
+# -----------------------
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*.swp
+*~
+
+# -----------------------
+# Project output
+# -----------------------
+logs/
+out_gui/         # exclude the whole GUI output folder
+gui_out/         # just in case the folder is named this way too
+*.log
+*.tmp
+
+# -----------------------
+# Keys & certificates
+# -----------------------
+*.pem
+*.crt
+*.key
+
+# -----------------------
+# IDE / Editor settings
+# -----------------------
+.vscode/
+.idea/
+*.iml
+
+# -----------------------
+# Jupyter / Notebooks (if used)
+# -----------------------
+.ipynb_checkpoints/
+*.ipynb
+
+# -----------------------
+# PDF & reports
+# -----------------------
+*.pdf

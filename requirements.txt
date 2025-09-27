@@ -1,0 +1,5 @@
+PySimpleGUI
+cryptography
+pycryptodome
+jsonschema
+reportlab
