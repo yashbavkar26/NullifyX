@@ -1,4 +1,4 @@
-PySimpleGUI
+
 cryptography
 pycryptodome
 jsonschema
